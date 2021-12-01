@@ -1,0 +1,8 @@
+.article{
+    cursor: pointer;
+    min-height: 100px;
+}
+
+.piece{
+    cursor: pointer;
+}

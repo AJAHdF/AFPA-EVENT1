@@ -1,0 +1,13 @@
+//Exo 3bis : Demander la saisie de 2 nombres puis afficher leur somme, 
+//tant que la saisie ne correspond pas à un nombre, on redemande de saisir le nombre
+
+//Exo 8 : demander un nombre compris entre 1 et 10
+//On redemande à l'utilisateur de saisir tant que ce n'est pas un nombre compris entre 1 et 10
+//Une fois la saisie correcte, on affiche la table de multiplication de ce nombre dans la console (de 1 à 10)
+
+//Exo 9 : Demander le nombre de photocopies efféxtuées
+//S'assurer de la validité de la saisie : nombre >= 1
+//Afficher le prix en fonction du nombre de photocopie saisi
+//les 10 premières sont à 0.10€ l'unité
+//les 40 suivantes sont à 0.08€ l'unité
+//les suivantes sont à 0.05€ l'unité
